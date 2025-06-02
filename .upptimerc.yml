@@ -5,6 +5,8 @@ repo: jaech-upptime # The name of this repository
 sites:
   - name: Judah Helland
     url: https://judahhelland.com
+  - name: Light Labs
+    url: https://labs.hellandcloud.com
 
 
 status-website:
