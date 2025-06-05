@@ -7,7 +7,7 @@ sites:
     url: https://judahhelland.com
   - name: Light Labs
     url: https://labs.hellandcloud.com
- - name: Light Labs Beta
+  - name: Light Labs Beta
     url: https://thelightlabs.dev
 
 assignees: # Users to assign downtime issues (optional)
