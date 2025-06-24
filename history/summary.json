@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 197,
-    "timeWeek": 221,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "time": 205,
+    "timeDay": 254,
+    "timeWeek": 219,
+    "timeMonth": 205,
+    "timeYear": 205,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 179,
-    "timeWeek": 218,
+    "timeDay": 193,
+    "timeWeek": 202,
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {}
@@ -40,17 +40,19 @@
     "url": "https://thelightlabs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/thelightlabs.dev.ico",
     "slug": "light-labs-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 138,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "time": 218,
+    "timeDay": 188,
+    "timeWeek": 207,
+    "timeMonth": 218,
+    "timeYear": 218,
+    "dailyMinutesDown": {
+      "2025-06-24": 0
+    }
   }
 ]
