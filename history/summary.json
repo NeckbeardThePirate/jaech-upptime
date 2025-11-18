@@ -4,53 +4,59 @@
     "url": "https://judahhelland.com",
     "icon": "https://icons.duckduckgo.com/ip3/judahhelland.com.ico",
     "slug": "judah-helland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 235,
-    "timeWeek": 231,
-    "timeMonth": 220,
+    "timeDay": 218,
+    "timeWeek": 227,
+    "timeMonth": 219,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Light Labs",
     "url": "https://labs.hellandcloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/labs.hellandcloud.com.ico",
     "slug": "light-labs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 210,
-    "timeWeek": 197,
-    "timeMonth": 203,
+    "timeDay": 274,
+    "timeWeek": 215,
+    "timeMonth": 207,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Light Labs Beta",
     "url": "https://thelightlabs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/thelightlabs.dev.ico",
     "slug": "light-labs-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 154,
-    "timeWeek": 207,
+    "timeDay": 184,
+    "timeWeek": 208,
     "timeMonth": 216,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
