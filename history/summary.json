@@ -4,17 +4,17 @@
     "url": "https://judahhelland.com",
     "icon": "https://icons.duckduckgo.com/ip3/judahhelland.com.ico",
     "slug": "judah-helland",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.04%",
+    "uptimeDay": "97.03%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 227,
-    "timeDay": 201,
-    "timeWeek": 221,
-    "timeMonth": 218,
-    "timeYear": 227,
+    "time": 226,
+    "timeDay": 187,
+    "timeWeek": 213,
+    "timeMonth": 216,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2025-11-18": 43
     }
@@ -44,17 +44,19 @@
     "url": "https://thelightlabs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/thelightlabs.dev.ico",
     "slug": "light-labs-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 160,
-    "timeWeek": 198,
-    "timeMonth": 213,
-    "timeYear": 221,
-    "dailyMinutesDown": {}
+    "time": 220,
+    "timeDay": 150,
+    "timeWeek": 190,
+    "timeMonth": 210,
+    "timeYear": 220,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
