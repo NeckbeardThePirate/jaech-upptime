@@ -6,9 +6,9 @@
     "slug": "judah-helland",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 218,
@@ -16,7 +16,7 @@
     "timeMonth": 219,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 12
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "light-labs",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 236,
     "timeDay": 274,
@@ -36,7 +36,7 @@
     "timeMonth": 207,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 12
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://thelightlabs.dev",
     "icon": "https://icons.duckduckgo.com/ip3/thelightlabs.dev.ico",
     "slug": "light-labs-beta",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 184,
-    "timeWeek": 208,
-    "timeMonth": 216,
-    "timeYear": 222,
+    "time": 221,
+    "timeDay": 160,
+    "timeWeek": 198,
+    "timeMonth": 213,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 12
     }
   }
 ]
