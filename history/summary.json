@@ -4,19 +4,19 @@
     "url": "https://judahhelland.com",
     "icon": "https://icons.duckduckgo.com/ip3/judahhelland.com.ico",
     "slug": "judah-helland",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 227,
-    "timeDay": 218,
-    "timeWeek": 227,
-    "timeMonth": 219,
+    "timeDay": 201,
+    "timeWeek": 221,
+    "timeMonth": 218,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-11-18": 12
+      "2025-11-18": 43
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://labs.hellandcloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/labs.hellandcloud.com.ico",
     "slug": "light-labs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 236,
-    "timeDay": 274,
-    "timeWeek": 215,
-    "timeMonth": 207,
+    "timeDay": 239,
+    "timeWeek": 210,
+    "timeMonth": 206,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-11-18": 12
+      "2025-11-18": 43
     }
   },
   {
@@ -46,17 +46,15 @@
     "slug": "light-labs-beta",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 160,
     "timeWeek": 198,
     "timeMonth": 213,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2025-11-18": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
