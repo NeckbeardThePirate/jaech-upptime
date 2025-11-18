@@ -4,19 +4,19 @@
     "url": "https://judahhelland.com",
     "icon": "https://icons.duckduckgo.com/ip3/judahhelland.com.ico",
     "slug": "judah-helland",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "90.10%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "88.97%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.93%",
     "time": 226,
-    "timeDay": 191,
-    "timeWeek": 212,
-    "timeMonth": 215,
+    "timeDay": 186,
+    "timeWeek": 208,
+    "timeMonth": 214,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-11-18": 143
+      "2025-11-18": 160
     }
   },
   {
