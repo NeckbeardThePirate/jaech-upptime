@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/judahhelland.com.ico",
     "slug": "judah-helland",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 215,
-    "timeDay": 141,
-    "timeWeek": 190,
-    "timeMonth": 190,
-    "timeYear": 215,
+    "uptimeYear": "99.96%",
+    "time": 214,
+    "timeDay": 150,
+    "timeWeek": 182,
+    "timeMonth": 191,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2025-11-18": 160
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 221,
-    "timeDay": 145,
-    "timeWeek": 183,
-    "timeMonth": 185,
+    "timeDay": 155,
+    "timeWeek": 174,
+    "timeMonth": 187,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2025-11-18": 43
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 215,
-    "timeDay": 119,
-    "timeWeek": 295,
-    "timeMonth": 205,
-    "timeYear": 215,
+    "time": 216,
+    "timeDay": 388,
+    "timeWeek": 215,
+    "timeMonth": 212,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2025-11-18": 136
     }
